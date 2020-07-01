@@ -1,7 +1,7 @@
-# Poker <hr>
+# Texas Hold Em' Poker <hr>
 Since this is the first game I will be building, I chose to keep it somewhat simple and attempt to make a poker game. I'll start off by having the user face off against one computer and gradually add more contenders after I can make it function in a 1 v 1 match. <hr>
 
-### Poker Origins 
+## Poker Origins 
 As early as the sixteenth century, Germans played a bluffing game called "Pochen." It later developed into a French version, called "Poque," which was eventually brought over to New Orleans and played on the riverboats that plied the Mississippi. 
 
 In the 1830s, the game was refined further and became known as Poker. During the Civil War, the key rule about drawing cards to improve one's hand was added. A variation - Stud Poker - appeared at about the same time. There are hundreds of versions of Poker, and the game is played not only in private homes, but also in countless Poker rooms at famous casinos. Poker can be played socially for pennies or matchsticks, or professionally for thousands of dollars.
@@ -11,7 +11,7 @@ There is plenty of luck in Poker, but the game requires incredibly great skill a
 Source: [Basics Of Poker](https://bicyclecards.com/how-to-play/basics-of-poker/)
 <hr>
 
-### Card Values/Scoring
+## Card Values/Scoring
 *For this variation of Poker I will not be including wildcards such as,  a joker, the two one-eyed jacks, or the four deuces. This means that the game will be played without the possibility of getting a hand with 5 of a kind. For those not familiar with how to get 5 of a kind here it is.* <br>
 
 **Five of a Kind:** *This is the highest possible hand and can occur only in games where at least one card is wild, such as a joker, the two one-eyed jacks, or the four deuces. Examples of five of a kind would be four 10s and a wild card or two queens and three wild cards.* **We will not be playing with this hand.** <br>
@@ -38,7 +38,7 @@ Source: [Basics Of Poker](https://bicyclecards.com/how-to-play/basics-of-poker/)
 
 **Side Note:** Two hands that are identical, card for card, are tied since the suits have no relative rank in Poker. In such a case, the tied players split the pot. Note that if two hands contain the same high pair, then the ranking of the next card in the hands determines which one wins. For example: 9, 9, 7, 4, 2 beats 9, 9, 5, 3, 2. Likewise, two hands that have identical pairs would be decided by the fifth card. For example: Q, Q, 6, 6, J beats Q, Q, 6, 6, 10.Two hands that are identical, card for card, are tied since the suits have no relative rank in Poker. In such a case, the tied players split the pot. Note that if two hands contain the same high pair, then the ranking of the next card in the hands determines which one wins. For example: 9, 9, 7, 4, 2 beats 9, 9, 5, 3, 2. Likewise, two hands that have identical pairs would be decided by the fifth card. For example: Q, Q, 6, 6, J beats Q, Q, 6, 6, 10. <br> <br> Source: [Basics Of Poker](https://bicyclecards.com/how-to-play/basics-of-poker/) <hr>
 
-### Card Hierarchy: 
+## Card Hierarchy: 
 1. Ace
 2. King
 3. Queen
@@ -56,21 +56,55 @@ Source: [Basics Of Poker](https://bicyclecards.com/how-to-play/basics-of-poker/)
 <hr>
 
 
-### Technical Challenges
+## Technical Challenges
 - One challenge I know that I have to overcome is creating the logic for the card values/scoring.
 - Another challenge I can already see is knowing when there's a winner (maybe by setting a max score and first to reach it wins; or there can be a timer that the user sets and whoever has the most points/money at the end wins.)
 - There are a lot of different hand combinations...creating that will be a challenge. 
 <hr>
 
-### Wireframe
+## Wireframe
 ![Screenshot](Wireframe/WF-Image.png) <hr>
 
 
-### Additional Features 
+## Additional Features 
+- *This space will be used for features I want to add, I'll add as I develop the main aspects of the game.* 
+
 
 <hr>
 
-### Timeline 
+## Timeline 
+
+#### Tuesday, June 30: 
+- Complete proposal and begin layout of the game. 
+
+#### Wednesday, July 1: 
+- Begin making the card objects and work out how the dealer will place and deal cards. 
+- Focus on the Javescript functionality first. 
+
+#### Thursday, July 2:
+- Work out the various hand combinations that exist in Poker. 
+- Create the logic to determine hand-value hierarchy.
+- Begin the point/timer system. 
+- Focus on the point system first; the timer system can be a bonus feature once the game is functional with the point system. (Users can be given an option of the type of game mode they'd prefer, timer or points). 
+
+#### Friday, July 3: 
+- Finish the point system so there is a way to win. 
+- Continue working out the JavaScript and weed out any bugs. 
+- Incorporate ways to test it out in the console.
+
+#### Saturday, July 4:
+- Begin incorpororating the game into the DOM
+
+#### Sunday, July 5:
+- Finish incorporating game into the DOM.  
+- Test out the game, weed out any bugs. 
+- Begin styling
+
+#### Monday, July 6: 
+- Finish Styling. 
+- Test out game with styled elements.
+- Turn in the game.
+ 
 
 
 
