@@ -13,47 +13,47 @@ Source: [Basics Of Poker](https://bicyclecards.com/how-to-play/basics-of-poker/)
 
 
 ## Texas Hold Em' Rules
-**OBJECT OF THE GAME:**
+**OBJECT OF THE GAME:** <br>
 Before and after each card(s) is revealed, players take turns to bet. To stay in the hand and see the next card, all players must have put the same amount of chips in the pot as each other.
 
 The best poker hand wins the pot.
 
-**THE DEAL:**
+**THE DEAL:** <br>
 Every player is dealt two cards, for their eyes only.
 
 The dealer spreads five cards - three at once, then another, then another - which can be used by all players to make their best possible five-card hand.
 
-**THE PLAY:**
+**THE PLAY:** <br>
 In Hold'em, each player is dealt two private cards (known as ‘hole cards’) that belong to them alone. Five community cards are dealt face-up, to form the ‘board’. All players in the game use these shared community cards in conjunction with their own hole cards to each make their best possible five-card poker hand. In Hold'em, a player may use any combination of the seven cards available to make the best possible five-card poker hand, using zero, one or two of their private hole cards.
 
-**The Blinds:**
+**The Blinds:** <br>
 In Hold'em, a marker called ‘the button’ or ‘the dealer button’ indicates which player is the dealer for the current game. Before the game begins, the player immediately clockwise from the button posts the "small blind", the first forced bet. The player immediately clockwise from the small blind posts the "big blind", which is typically twice the size of the small blind, but the blinds can vary depending on the stakes and betting structure being played.
 
 Now, each player receives his or her two hole cards. Betting action proceeds clockwise around the table, starting with the player ‘under the gun’ (immediately clockwise from the big blind).
 
-**Player Betting Options:**
+**Player Betting Options:** <br>
 In Hold'em, as with other forms of poker, the available actions are ‘fold’, ‘check’, ‘bet’, ‘call’ or ‘raise’. Exactly which options are available depends on the action taken by the previous players. If nobody has yet made a bet, then a player may either check (decline to bet, but keep their cards) or bet. If a player has bet, then subsequent players can fold, call or raise. To call is to match the amount the previous player has bet. To raise is to not only match the previous bet, but to also increase it.
 
-**Pre-Flop:**
+**Pre-Flop:** <br>
 After seeing his or her hole cards, each player now has the option to play his or her hand by calling or raising the big blind. The action begins to the left of the big blind, which is considered a ‘live’ bet on this round. That player has the option to fold, call or raise. For example, if the big blind was \$2, it would cost \$2 to call, or at least $4 to raise. Action then proceeds clockwise around the table.
 
 Betting continues on each betting round until all active players (who have not folded) have placed equal bets in the pot.
 
-**The Flop:**
+**The Flop:** <br>
 Now, three cards are dealt face-up on the board. This is known as ‘the flop’. In Hold'em, the three cards on the flop are community cards, available to all players still in the hand. Betting on the flop begins with the active player immediately clockwise from the button. The betting options are similar to pre-flop, however if nobody has previously bet, players may opt to check, passing the action to the next active player clockwise.
 
-**The Turn:**
+**The Turn:** <br>
 When the betting action is completed for the flop round, the ‘turn’ is dealt face-up on the board. The turn is the fourth community card in Hold'em (and is sometimes also called ‘Fourth Street’). Another round of betting ensues, beginning with the active player immediately clockwise from the button.
 
-**The River:**
+**The River:** <br>
 When betting action is completed for the turn round, the ‘river’ or ‘Fifth Street’ is dealt face-up on the board. The river is the fifth and final community card in a Hold'em game. Betting again begins with the active player immediately clockwise from the button, and the same betting rules apply as they do for the flop and turn, as explained above.
 
-**The Showdown:**
+**The Showdown:** <br>
 If there is more than one remaining player when the final betting round is complete, the last person to bet or raise shows their cards, unless there was no bet on the final round in which case the player immediately clockwise from the button shows their cards first. The player with the best five-card poker hand wins the pot. In the event of identical hands, the pot will be equally divided between the players with the best hands. Hold'em rules state that all suits are equal.
 
-After the pot is awarded, a new hand of Hold'em is ready to be played. The button now moves clockwise to the next player, blinds and antes are once again posted, and new hands are dealt to each player. <hr>
+After the pot is awarded, a new hand of Hold'em is ready to be played. The button now moves clockwise to the next player, blinds and antes are once again posted, and new hands are dealt to each player. <br>
 
-
+Source: [Texas Hold Em' Rules](https://bicyclecards.com/how-to-play/texas-holdem-poker/) <hr>
 
 
 
