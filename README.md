@@ -63,7 +63,7 @@ Source: [Basics Of Poker](https://bicyclecards.com/how-to-play/basics-of-poker/)
 <hr>
 
 ### Wireframe
-![](./wireframe/WF-Image.png) <hr>
+![Screenshot](./wireframe/WF-Image.png) <hr>
 
 
 ### Additional Features 
