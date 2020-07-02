@@ -98,7 +98,6 @@ Source: [Texas Hold Em' Rules](https://bicyclecards.com/how-to-play/texas-holdem
 11. 4
 12. 3
 13. 2
-14. 1 
 <hr>
 
 
