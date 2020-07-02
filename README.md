@@ -124,7 +124,7 @@ Source: [Texas Hold Em' Rules](https://bicyclecards.com/how-to-play/texas-holdem
 
 #### Wednesday, July 1: 
 - Begin making the card objects and work out how the dealer will place and deal cards. 
-- Focus on the Javescript functionality first. 
+- Focus on the Javascript functionality first. 
 
 #### Thursday, July 2:
 - Work out the various hand combinations that exist in Poker. 
