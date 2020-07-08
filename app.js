@@ -21,7 +21,7 @@ console.log("Working...");
             this.value = value; 
             this.name = value + ' of ' + suit;
 
-            return value;
+            return this.name;
             }
 
             let values = ['2','3','4','5','6','7','8','9','10','J','Q','K','A']; 
@@ -86,7 +86,9 @@ console.log("Working...");
     deck1 = new Deck; 
     deck1.create_deck();
     deck1.print_deck();
-    console.log("First Card: " + deck1.deck[0]); 
+    deck1.shuffle();
+    console.log("")
+    deck1.print_deck();
     
 
 
